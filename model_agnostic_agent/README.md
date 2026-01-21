@@ -17,10 +17,10 @@ Set the model via environment variable:
 export LITELLM_MODEL="gemini/gemini-3-flash-preview"
 
 # Use Claude
-export LITELLM_MODEL="anthropic/claude-sonnet-4-20250514"
+export LITELLM_MODEL="anthropic/claude-sonnet-4-5-20250929"
 
 # Use OpenAI
-export LITELLM_MODEL="openai/gpt-4o"
+export LITELLM_MODEL="openai/gpt-5.2"
 ```
 
 Run the agent:
